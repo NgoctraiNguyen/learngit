@@ -1,2 +1,3 @@
 đây là file 1
 sửa đổi ở computer1
+đây là sửa đổi trên computer 2
